@@ -28,6 +28,7 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 [![](https://img.shields.io/badge/Front-Vue-informational?style=flat&logo=Vue&logoColor=white&color=41B883)](https://vuejs.org/)
 [![](https://img.shields.io/badge/Front-Redux-informational?style=flat&logo=Redux&logoColor=white&color=764ABC)](https://redux.js.org/)
 [![](https://img.shields.io/badge/Front-ReactQuery-informational?style=flat&logo=ReactQuery&logoColor=white&color=F43F5E)](https://tanstack.com/query/latest/)
+[![](https://img.shields.io/badge/Front-tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=38BDf8)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/Front-StyledComponents-informational?style=flat&logo=StyledComponents&logoColor=white&color=D37981)](https://styled-components.com/)
 
 [![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=C14438)](https://www.git.com/)
