@@ -27,8 +27,11 @@
 [![](https://img.shields.io/badge/Front-ReactQuery-informational?style=flat&logo=ReactQuery&logoColor=white&color=F43F5E)](https://tanstack.com/query/latest/)
 [![](https://img.shields.io/badge/Front-StyledComponents-informational?style=flat&logo=StyledComponents&logoColor=white&color=D37981)](https://styled-components.com/)
   
+[![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=916F79)](https://jestjs.io/)
+[![](https://img.shields.io/badge/Tools-Vitest-informational?style=flat&logo=vitest&logoColor=white&color=6E961A)](https://vitest.dev/)
 [![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=007FFF)](https://azure.microsoft.com/)
+[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=007FFF)](https://figma.com/)
 </div>
 
 
