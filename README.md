@@ -1,5 +1,8 @@
 ### Hi there, I'm Timilehin A. Adenaike 👋
 
+## About ME
+I am a front-end developer based in Lagos, Nigeria. With my skills in creating visually appealing and engaging web applications, I work collaboratively as part of a team. My passion for coding and design helps me to deliver high-quality work, and I strive to stay up-to-date with the latest technologies and trends in my field to meet the needs of my clients.
+
 [![Linkedin Badge](https://img.shields.io/badge/-timilehin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timilehin-adenaike/)](https://www.linkedin.com/in/timilehin-adenaike/)
 [![Twitter Badge](https://img.shields.io/badge/-@Timmynaike-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Timmynaike)](https://twitter.com/Timmynaike)
 [![Gmail Badge](https://img.shields.io/badge/-timmynaike@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timmynaike@gmail.com)](mailto:timmynaike@gmail.com)
