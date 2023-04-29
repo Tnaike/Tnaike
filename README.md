@@ -22,8 +22,9 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
   
   
 
-[![](https://img.shields.io/badge/Front-HTML5-informational?style=flat&logo=Html&logoColor=white&color=FFA500)](https://www.w3.org/)
-[![](https://img.shields.io/badge/Front-CSS3-informational?style=flat&logo=Css&logoColor=white&color=264DE4)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/Front-HTML5-informational?style=flat&logo=html5&logoColor=white&color=FFA500)](https://www.w3.org/)
+[![](https://img.shields.io/badge/Front-CSS3-informational?style=flat&logo=css3&logoColor=white&color=264DE4)](https://www.w3.org/Style/CSS/) [![](https://img.shields.io/badge/Front-SCSS-informational?style=flat&logo=sass&logoColor=white&color=b83776)](https://www.w3.org/Style/SCSS/)
+  
 [![](https://img.shields.io/badge/Front-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Front-Vue-informational?style=flat&logo=Vue&logoColor=white&color=41B883)](https://vuejs.org/)
 [![](https://img.shields.io/badge/Front-Redux-informational?style=flat&logo=Redux&logoColor=white&color=764ABC)](https://redux.js.org/)
@@ -41,6 +42,11 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 
 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)](https://www.linux.org/pages/download/)
+
+
+
+
+ ![](https://visitor-badge.laobi.icu/badge?page_id=Tnaike)
 
 <!--
 ---
