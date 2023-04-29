@@ -12,30 +12,30 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 
 <div id="header" align="left">
   
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F7DF1E)](https://www.typescriptlang.com/)
-[![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=white&color=b0b3d6)](https://www.php.net/)
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=0076c6&color=0076c6)](https://www.typescriptlang.com/)
+[![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=7377ad&color=7377ad)](https://www.php.net/)
   
 [![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=A22160)](https://www.apache.org/)
 [![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/DB-PostgreSql-informational?style=flat&logo=postgresql&logoColor=white&color=0064a5)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/DB-PostgreSql-informational?style=flat&logo=postgresql&logoColor=white&color=31648c)](https://www.postgresql.org/)
   
   
 
-[![](https://img.shields.io/badge/Front-HTML5-informational?style=flat&logo=html5&logoColor=white&color=FFA500)](https://www.w3.org/)
-[![](https://img.shields.io/badge/Front-CSS3-informational?style=flat&logo=css3&logoColor=white&color=264DE4)](https://www.w3.org/Style/CSS/) [![](https://img.shields.io/badge/Front-SCSS-informational?style=flat&logo=sass&logoColor=white&color=b83776)](https://www.w3.org/Style/SCSS/)
+[![](https://img.shields.io/badge/Front-HTML5-informational?style=flat&logo=html5&logoColor=dd4b25&color=dd4b25)](https://www.w3.org/)
+[![](https://img.shields.io/badge/Front-CSS3-informational?style=flat&logo=css3&logoColor=196fb4&color=196fb4)](https://www.w3.org/Style/CSS/) [![](https://img.shields.io/badge/Front-SCSS-informational?style=flat&logo=sass&logoColor=b83776&color=b83776)](https://www.w3.org/Style/SCSS/)
   
-[![](https://img.shields.io/badge/Front-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Front-Vue-informational?style=flat&logo=Vue&logoColor=white&color=41B883)](https://vuejs.org/)
-[![](https://img.shields.io/badge/Front-Redux-informational?style=flat&logo=Redux&logoColor=white&color=764ABC)](https://redux.js.org/)
+[![](https://img.shields.io/badge/Front-React-informational?style=flat&logo=React&logoColor=61DAFB&color=61DAFB)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Front-Vue-informational?style=flat&logo=Vue.js&logoColor=41B883&color=41B883)](https://vuejs.org/)
+[![](https://img.shields.io/badge/Front-Redux-informational?style=flat&logo=Redux&logoColor=7248b6&color=7248b6)](https://redux.js.org/)
 [![](https://img.shields.io/badge/Front-ReactQuery-informational?style=flat&logo=ReactQuery&logoColor=white&color=F43F5E)](https://tanstack.com/query/latest/)
-[![](https://img.shields.io/badge/Front-tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=38BDf8)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/Front-tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=38BDf8&color=38BDf8)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/Front-StyledComponents-informational?style=flat&logo=StyledComponents&logoColor=white&color=D37981)](https://styled-components.com/)
 
-[![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=C14438)](https://www.git.com/)
+[![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=C14438&color=C14438)](https://www.git.com/)
 [![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=916F79)](https://jestjs.io/)
 [![](https://img.shields.io/badge/Tools-Vitest-informational?style=flat&logo=vitest&logoColor=white&color=6E961A)](https://vitest.dev/)
-[![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
+[![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=FF6C37)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=007FFF)](https://azure.microsoft.com/)
 [![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=007FFF)](https://figma.com/)
 </div>
@@ -44,11 +44,9 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)](https://www.linux.org/pages/download/)
 
 
-
-
- ![](https://visitor-badge.laobi.icu/badge?page_id=Tnaike)
-
 <!--
+
+ <img src="https://komarev.com/ghpvc/?username=Tnaike&label=Profile%20views&color=0e75b6&style=flat" alt="Tnaike" />
 ---
 ### 📈 My stats
 ---
