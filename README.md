@@ -12,8 +12,8 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 
 <div id="header" align="left">
 
-[![](https://img.shields.io/badge/Front-HTML5-informational?style=flat&logo=html5&logoColor=dd4b25&color=dd4b25)](https://www.w3.org/)
-[![](https://img.shields.io/badge/Front-CSS3-informational?style=flat&logo=css3&logoColor=196fb4&color=196fb4)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=FFFFFF&color=dd4b25)](https://www.w3.org/)
+[![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=FFFFFF&color=196fb4)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=0076c6&color=0076c6)](https://www.typescriptlang.com/)
 [![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=7377ad&color=7377ad)](https://www.php.net/)
@@ -28,15 +28,16 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 #### :books: Frameworks, Platforms and Libraries
 [![](https://img.shields.io/badge/Front-React-informational?style=flat&logo=React&logoColor=61DAFB&color=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Front-Vue.js-informational?style=flat&logo=Vue.js&logoColor=41B883&color=41B883)](https://vuejs.org/)
-[![](https://img.shields.io/badge/Front-Redux-informational?style=flat&logo=Redux&logoColor=7248b6&color=7248b6)](https://redux.js.org/)
-[![](https://img.shields.io/badge/Front-Next-informational?style=flat&logo=Next.js&logoColor=FFFFFF&color=000000)](https://nextjs.org/)
-[![](https://img.shields.io/badge/Front-React%20Query-informational?style=flat&logo=ReactQuery&logoColor=FF4154&color=FF4154)](https://tanstack.com/query/latest/)
-[![](https://img.shields.io/badge/Front-Vite-informational?style=flat&logo=vite&logoColor=FFFFFF&color=646cff)](https://vitejs.dev/)
-[![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&logoColor=white&color=CB3837)](https://npmjs.com/)
-[![](https://img.shields.io/badge/Tools-yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB)](https://yarnpkg.com/)
+[![](https://img.shields.io/badge/Next-informational?style=flat&logo=Next.js&logoColor=FFFFFF&color=000000)](https://nextjs.org/)
+[![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=FFFFFF&color=7248b6)](https://redux.js.org/)
+[![](https://img.shields.io/badge/React%20Query-informational?style=flat&logo=ReactQuery&logoColor=FFFFFF&color=FF4154)](https://tanstack.com/query/latest/)
+[![](https://img.shields.io/badge/Vite-informational?style=flat&logo=vite&logoColor=FFFFFF&color=646cff)](https://vitejs.dev/)
+[![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&logoColor=white&color=CB3837)](https://npmjs.com/)
+[![](https://img.shields.io/badge/Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/Front-tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=38BDf8&color=38BDf8)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/Front-bootstrap-informational?style=flat&logo=bootstrap&logoColor=8511FA&color=8511FA)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/Front-MUI-informational?style=flat&logo=mui&logoColor=FFFFFF&color=0081CB)](https://mui.com/)
+[![](https://img.shields.io/badge/Front-SCSS-informational?style=flat&logo=sass&logoColor=b83776&color=b83776)](https://www.w3.org/Style/SCSS/)
 [![](https://img.shields.io/badge/Front-chakraui-informational?style=flat&logo=chakraui&logoColor=4ED1C5&color=4ED1C5)](https://chakra-ui.com/)
 [![](https://img.shields.io/badge/Front-StyledComponents-informational?style=flat&logo=StyledComponents&logoColor=white&color=D37981)](https://styled-components.com/)
 [![](https://img.shields.io/badge/Testing%20Library-informational?style=flat&logo=testing-library&logoColor=white&color=E33332)](https://testing-library.com/)
@@ -44,7 +45,6 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 [![](https://img.shields.io/badge/Vitest-informational?style=flat&logo=vitest&logoColor=white&color=6E961A)](https://vitest.dev/)
 [![](https://img.shields.io/badge/mocha-informational?style=flat&logo=mocha&logoColor=white&color=8D6748)](https://mocha.js.org/)
 [![](https://img.shields.io/badge/webpack-informational?style=flat&logo=webpack&logoColor=000000&color=8DD6F9)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/Front-SCSS-informational?style=flat&logo=sass&logoColor=b83776&color=b83776)](https://www.w3.org/Style/SCSS/)
 [![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=WordPress&logoColor=FFFFFF&color=117AC9)](https://www.wordpress.com/)
 
 #### :clock5: Version Control
