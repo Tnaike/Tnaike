@@ -51,6 +51,7 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 #### :clock5: Version Control
 [![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=FFFFFF&color=C14438)](https://www.git.com/)
 [![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=FFFFFF&color=121011)](https://www.github.com/)
+[![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=FFFFFF&color=0047B3)](https://www.bitbucket.com/)
 
 
 #### :hammer_and_wrench: Tools and Others
