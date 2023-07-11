@@ -60,7 +60,7 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 [![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=FF6C37)](https://www.postman.com/)
 [![](https://img.shields.io/badge/ESLint-informational?style=flat&logo=eslint&logoColor=FFFFFF&color=4B3263)](https://eslint.org/)
 [![](https://img.shields.io/badge/Tools-jira-informational?style=flat&logo=Jira&logoColor=white&color=0A0FFF)](https://atlassian.net/)
-[![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=007FFF)](https://azure.microsoft.com/)
+[![](https://img.shields.io/badge/MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=007FFF)](https://azure.microsoft.com/)
 [![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4A154B)](https://slack.com/)
 [![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=007FFF)](https://figma.com/)
 [![](https://img.shields.io/badge/Adobe-informational?style=flat&logo=adobe&logoColor=white&color=FF0000)](https://adobe.com/)
