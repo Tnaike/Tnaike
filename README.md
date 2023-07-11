@@ -47,16 +47,18 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 [![](https://img.shields.io/badge/webpack-informational?style=flat&logo=webpack&logoColor=000000&color=8DD6F9)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=WordPress&logoColor=FFFFFF&color=117AC9)](https://www.wordpress.com/)
 
+
 #### :clock5: Version Control
 [![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=FFFFFF&color=C14438)](https://www.git.com/)
 [![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=FFFFFF&color=121011)](https://www.github.com/)
 
+
 #### :hammer_and_wrench: Tools and Others
+[![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=FF6C37)](https://www.postman.com/)
-[![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=eslint&logoColor=4B3263&color=4B3263)](https://eslint.org/)
+[![](https://img.shields.io/badge/ESLint-informational?style=flat&logo=eslint&logoColor=FFFFFF&color=4B3263)](https://eslint.org/)
 [![](https://img.shields.io/badge/Tools-jira-informational?style=flat&logo=Jira&logoColor=white&color=0A0FFF)](https://atlassian.net/)
 [![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=007FFF)](https://azure.microsoft.com/)
-[![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4A154B)](https://slack.com/)
 [![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=007FFF)](https://figma.com/)
 [![](https://img.shields.io/badge/Adobe-informational?style=flat&logo=adobe&logoColor=white&color=FF0000)](https://adobe.com/)
