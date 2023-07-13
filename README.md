@@ -57,8 +57,8 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 
 #### :hammer_and_wrench: Tools and Others
 [![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FFFFFF&color=FF6C37)](https://www.postman.com/)
 [![](https://img.shields.io/badge/ESLint-informational?style=flat&logo=eslint&logoColor=FFFFFF&color=4B3263)](https://eslint.org/)
+[![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FFFFFF&color=FF6C37)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=0A0FFF)](https://atlassian.net/)
 [![](https://img.shields.io/badge/MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=007FFF)](https://azure.microsoft.com/)
 [![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4A154B)](https://slack.com/)
