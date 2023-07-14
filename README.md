@@ -51,8 +51,8 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 #### :clock5: Version Control
 [![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=FFFFFF&color=C14438)](https://www.git.com/)
 [![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=FFFFFF&color=121011)](https://www.github.com/)
-[![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=FFFFFF&color=0047B3)](https://www.bitbucket.com/)
 [![](https://img.shields.io/badge/Azure%20DevOps%20Server-informational?style=flat&logo=azure%20devOps%20server&logoColor=FFFFFF&color=007FFF)](https://azure.microsoft.com/)
+[![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=FFFFFF&color=0047B3)](https://www.bitbucket.com/)
 
 
 #### :hammer_and_wrench: Tools and Others
@@ -70,10 +70,6 @@ I am a front-end developer based in Lagos, Nigeria. With my skills in creating v
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-<!--
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)](https://www.linux.org/pages/download/)
-[![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)](https://www.linux.org/pages/download/)
--->
 
 
 <!--
