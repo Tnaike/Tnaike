@@ -47,8 +47,8 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/Front-StyledComponents-informational?style=flat&logo=StyledComponents&logoColor=white&color=D37981)](https://styled-components.com/)
 [![](https://img.shields.io/badge/Testing%20Library-informational?style=flat&logo=testing-library&logoColor=white&color=E33332)](https://testing-library.com/)
 [![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=916F79)](https://jestjs.io/)
-[![](https://img.shields.io/badge/mocha-informational?style=flat&logo=mocha&logoColor=white&color=8D6748)](https://mocha.js.org/)
 [![](https://img.shields.io/badge/Vitest-informational?style=flat&logo=vitest&logoColor=white&color=6E961A)](https://vitest.dev/)
+[![](https://img.shields.io/badge/mocha-informational?style=flat&logo=mocha&logoColor=white&color=8D6748)](https://mocha.js.org/)
 [![](https://img.shields.io/badge/webpack-informational?style=flat&logo=webpack&logoColor=000000&color=8DD6F9)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=WordPress&logoColor=FFFFFF&color=117AC9)](https://www.wordpress.com/)
 
