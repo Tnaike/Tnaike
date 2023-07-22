@@ -1,7 +1,7 @@
 ### Hi 👋, My name is Timilehin A. Adenaike
 
 ## :writing_hand: About Me :1st_place_medal:
-I am a front-end developer based in 🌍 Lagos, Nigeria. With my skills in creating visually appealing and engaging web applications, I work collaboratively as part of a team.
+I am a front-end developer based in 🌍 **Lagos**, Nigeria. With my skills in creating visually appealing and engaging web applications, I work collaboratively as part of a team.
 My passion for coding and design helps me to deliver high-quality work, and I strive to stay up-to-date with the latest technologies and trends in my field.
 
 
