@@ -70,7 +70,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4A154B)](https://slack.com/)
 [![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=007FFF)](https://figma.com/)
 [![](https://img.shields.io/badge/Adobe-informational?style=flat&logo=adobe&logoColor=white&color=FF0000)](https://adobe.com/)
-[![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)](https://aws.amazon.com/)
+<!--[![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)](https://aws.amazon.com/)-->
 </div>
 
 #### 💻 Operating System
