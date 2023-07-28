@@ -39,6 +39,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/React%20Query-informational?style=flat&logo=ReactQuery&logoColor=FFFFFF&color=FF4154)](https://tanstack.com/query/latest/)
 [![](https://img.shields.io/badge/Vite-informational?style=flat&logo=vite&logoColor=FFFFFF&color=646cff)](https://vitejs.dev/)
 [![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&logoColor=white&color=CB3837)](https://npmjs.com/)
+[![](https://img.shields.io/badge/Jquery-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)](https://jquery.com/)
 [![](https://img.shields.io/badge/Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/Front-tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=38BDf8&color=38BDf8)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/Front-bootstrap-informational?style=flat&logo=bootstrap&logoColor=8511FA&color=8511FA)](https://getbootstrap.com/)
