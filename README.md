@@ -38,7 +38,6 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=FFFFFF&color=7248b6)](https://redux.js.org/)
 [![](https://img.shields.io/badge/React%20Query-informational?style=flat&logo=ReactQuery&logoColor=FFFFFF&color=FF4154)](https://tanstack.com/query/latest/)
 [![](https://img.shields.io/badge/Vite-informational?style=flat&logo=vite&logoColor=FFFFFF&color=646cff)](https://vitejs.dev/)
-[![](https://img.shields.io/badge/Jquery-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)](https://jquery.com/)
 [![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&logoColor=white&color=CB3837)](https://npmjs.com/)
 [![](https://img.shields.io/badge/Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2C8EBB)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/Front-tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=38BDf8&color=38BDf8)](https://tailwindcss.com/)
@@ -53,6 +52,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/mocha-informational?style=flat&logo=mocha&logoColor=white&color=8D6748)](https://mocha.js.org/)
 [![](https://img.shields.io/badge/webpack-informational?style=flat&logo=webpack&logoColor=000000&color=8DD6F9)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=FFFFFF&color=6DA55F)](https://node.js.com/)
+[![](https://img.shields.io/badge/Jquery-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)](https://jquery.com/)
 [![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=WordPress&logoColor=FFFFFF&color=117AC9)](https://www.wordpress.com/)
 
 
