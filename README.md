@@ -52,6 +52,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/Vitest-informational?style=flat&logo=vitest&logoColor=white&color=6E961A)](https://vitest.dev/)
 [![](https://img.shields.io/badge/mocha-informational?style=flat&logo=mocha&logoColor=white&color=8D6748)](https://mocha.js.org/)
 [![](https://img.shields.io/badge/webpack-informational?style=flat&logo=webpack&logoColor=000000&color=8DD6F9)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=FFFFFF&color=6DA55F)](https://node.js.com/)
 [![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=WordPress&logoColor=FFFFFF&color=117AC9)](https://www.wordpress.com/)
 
 
