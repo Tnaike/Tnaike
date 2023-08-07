@@ -33,7 +33,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
   
 
 #### :books: Frameworks, Platforms and Libraries
-[![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=FFFFFF&color=61DAFB)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Front-React-informational?style=flat&logo=React&logoColor=61DAFB&color=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Front-Vue.js-informational?style=flat&logo=Vue.js&logoColor=41B883&color=41B883)](https://vuejs.org/)
 [![](https://img.shields.io/badge/Next-informational?style=flat&logo=Next.js&logoColor=FFFFFF&color=000000)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=FFFFFF&color=7248b6)](https://redux.js.org/)
