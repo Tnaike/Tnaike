@@ -29,7 +29,6 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=A22160)](https://www.apache.org/)
 [![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4ea94b)](https://www.mongodb.com/)
-<!--[![](https://img.shields.io/badge/DB-PostgreSql-informational?style=flat&logo=postgresql&logoColor=white&color=31648c)](https://www.postgresql.org/)-->
   
 
 #### :books: Frameworks, Platforms and Libraries
