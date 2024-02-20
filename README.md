@@ -46,6 +46,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 [![](https://img.shields.io/badge/Front-SCSS-informational?style=flat&logo=sass&logoColor=b83776&color=b83776)](https://www.w3.org/Style/SCSS/)
 [![](https://img.shields.io/badge/Front-chakraui-informational?style=flat&logo=chakraui&logoColor=4ED1C5&color=4ED1C5)](https://chakra-ui.com/)
 [![](https://img.shields.io/badge/Front-StyledComponents-informational?style=flat&logo=StyledComponents&logoColor=white&color=D37981)](https://styled-components.com/)
+[![](https://img.shields.io/badge/zod-informational?style=flat&logo=zod&logoColor=white&color=3E67B1)](https://zod.dev/)
 [![](https://img.shields.io/badge/Testing%20Library-informational?style=flat&logo=testing-library&logoColor=white&color=E33332)](https://testing-library.com/)
 [![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=916F79)](https://jestjs.io/)
 [![](https://img.shields.io/badge/Vitest-informational?style=flat&logo=vitest&logoColor=white&color=6E961A)](https://vitest.dev/)
