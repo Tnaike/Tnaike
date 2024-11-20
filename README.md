@@ -61,7 +61,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 #### :clock5: Version Control
 [![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=FFFFFF&color=C14438)](https://www.git.com/)
 [![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=FFFFFF&color=121011)](https://www.github.com/)
-[![](https://img.shields.io/badge/Azure%20DevOps%20Server-informational?style=flat&logo=azure%20devOps%20server&logoColor=FFFFFF&color=007FFF)](https://azure.microsoft.com/)
+<!--[![](https://img.shields.io/badge/Azure%20DevOps%20Server-informational?style=flat&logo=azure%20devOps%20server&logoColor=FFFFFF&color=007FFF)](https://azure.microsoft.com/)-->
 [![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=bitbucket&logoColor=FFFFFF&color=0047B3)](https://www.bitbucket.com/)
 
 
