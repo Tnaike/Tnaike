@@ -6,7 +6,7 @@ My passion for coding and design helps me to deliver high-quality work, and I st
 
 
 - 🚀 I'm currently working at [Sabi](https://www.sabi.am/)
-- 🌱 I’m currently learning __React Native__
+<!--- 🌱 I’m currently learning __React Native__-->
 - 💞️ I'm interested in teaming up to create innovative and sustainable ideas
 - 📫 You can reach me via:  
 [![Gmail Badge](https://img.shields.io/badge/-timmynaike@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timmynaike@gmail.com)](mailto:timmynaike@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-timilehin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timilehin-adenaike/)](https://www.linkedin.com/in/timilehin-adenaike/)
