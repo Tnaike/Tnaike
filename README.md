@@ -5,7 +5,7 @@ I am a **frontend engineer** based in 🌍 **Lagos**, Nigeria. With my skills in
 My passion for coding and design helps me to deliver high-quality work, and I strive to stay up-to-date with the latest technologies and trends in my field.
 
 
-- 🚀 I'm currently working at [Sabi](https://www.sabi.am/)
+<!-- - 🚀 I'm currently working at [Sabi](https://www.sabi.am/) -->
 <!--- 🌱 I’m currently learning __React Native__-->
 - 💞️ I'm interested in teaming up to create innovative and sustainable ideas
 - 📫 You can reach me via:  
