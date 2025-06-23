@@ -27,7 +27,6 @@ I am a **frontend engineer** based in 🌍 **Lagos**, Nigeria. I specialize in b
 #### 💾 Servers and Databases
 [![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=A22160)](https://www.apache.org/)
 [![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4ea94b)](https://www.mongodb.com/)
   
 
 #### :books: Frameworks, Platforms and Libraries
