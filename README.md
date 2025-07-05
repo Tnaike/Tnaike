@@ -65,13 +65,13 @@ I am a **frontend engineer** based in 🌍 **Lagos**, Nigeria. I specialize in b
 
 #### :hammer_and_wrench: Tools and Others
 [![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)](https://code.visualstudio.com/)
-<!--[![](https://img.shields.io/badge/ESLint-informational?style=flat&logo=eslint&logoColor=FFFFFF&color=4B3263)](https://eslint.org/)-->
 [![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FFFFFF&color=FF6C37)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=0A0FFF)](https://atlassian.net/)
 [![](https://img.shields.io/badge/MicrosoftAzure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=007FFF)](https://azure.microsoft.com/)
-[![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4A154B)](https://slack.com/)
 [![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=007FFF)](https://figma.com/)
+<!--[![](https://img.shields.io/badge/Slack-informational?style=flat&logo=slack&logoColor=white&color=4A154B)](https://slack.com/)
 [![](https://img.shields.io/badge/Adobe-informational?style=flat&logo=adobe&logoColor=white&color=FF0000)](https://adobe.com/)
+[![](https://img.shields.io/badge/ESLint-informational?style=flat&logo=eslint&logoColor=FFFFFF&color=4B3263)](https://eslint.org/)-->
 <!--[![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)](https://aws.amazon.com/)-->
 </div>
 
